@@ -2,7 +2,7 @@
 <img src="eye.png" width='300'/>
 
 ## Description of project
-This is an animation of eyes following the mouse curser 
+This is an animation of eyes following the mouse cursor 
 
 ## Roadmap of future improvement
 I may develop new animation to reflect other facial expressions
